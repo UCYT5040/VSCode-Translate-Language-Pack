@@ -51,9 +51,9 @@
 			"ButtonWizardBrowse": "w&hat we think ...",
 			"ButtonNewFolder": "&create a new folder",
 			"SelectLanguageTitle": "Select a specific language.",
+			"SelectLanguageLabel": "Select the language to be used during installation.",
             TODO: Finish rest of the translations 
             To use this so far, just remove this invalid text.
-			"SelectLanguageLabel": "Select the language to use during the installation:",
 			"ClickNext": "Click Next to continue, or Cancel to exit Setup.",
 			"BrowseDialogTitle": "Browse For Folder",
 			"BrowseDialogLabel": "Select a folder in the list below, then click OK.",
